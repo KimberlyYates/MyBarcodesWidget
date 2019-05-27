@@ -9,10 +9,14 @@ Features:
 5. Provide black and white themes
 6. Provides the ability to quickly clear all content
 7. Quickly display barcodes in the notification center's gadgets
+
+
 ————————————————————————
 hope you will like it.
 
 
 
 if you have any questions,please contact me.
+
+
 Email: nzy53j@163.com
