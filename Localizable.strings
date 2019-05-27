@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  CodeWalletWidget
+
+  Created by Alexander Schulz on 05.10.18.
+  Copyright © 2018 Alexander Schulz. All rights reserved.
+*/
+
+
+"CollectionViewEmptyMessage" = "There have been no barcodes added yet.";
